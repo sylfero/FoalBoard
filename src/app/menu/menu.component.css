@@ -1,0 +1,19 @@
+main {
+    height: 100%;
+}
+
+#title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 32px;
+    font-weight: bolder;
+    color: #c2185b;
+    -webkit-text-stroke: 0.1px black;
+}
+
+button {
+    width: 70%;
+    height: 60%;
+}
