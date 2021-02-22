@@ -1,0 +1,7 @@
+{
+    "browserWindow": {
+        "resizable": false,
+		"width": 500,
+		"height": 700
+    }
+}
