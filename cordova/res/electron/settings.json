@@ -2,6 +2,9 @@
     "browserWindow": {
         "resizable": false,
 		"width": 500,
-		"height": 700
-    }
+		"height": 700,
+		"webPreferences": {
+			"devTools": false
+		}
+	}
 }
