@@ -5,6 +5,7 @@
 		"height": 700,
 		"webPreferences": {
 			"devTools": false
-		}
+		},
+		"autoHideMenuBar": true
 	}
 }
